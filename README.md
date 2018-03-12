@@ -1,4 +1,4 @@
-Broken and not Reliable
+Status of this fork: Broken and not Reliable
 ---
 
 Objective: Rewrite Ember Drag Drop so that instead of using the HTML API, it uses pure JS like in this Fiddle which I forked [here](http://jsfiddle.net/brianbancroft/3a6okswu/)
