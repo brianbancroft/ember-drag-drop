@@ -1,3 +1,9 @@
+Broken and not Reliable
+---
+
+Objective: Rewrite Ember Drag Drop so that instead of using the HTML API, it uses pure JS like in this Fiddle which I forked [here](http://jsfiddle.net/brianbancroft/3a6okswu/)
+
+
 # Ember Drag Drop
 
 [![Build Status](https://travis-ci.org/mharris717/ember-drag-drop.svg?branch=master)](https://travis-ci.org/mharris717/ember-drag-drop)
